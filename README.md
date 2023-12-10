@@ -40,7 +40,7 @@ Install using `pip`...  **TBD**
 
 
 # Note
-### This is a new fork of DRF, and serves more as a promise as of now... 
+### This is a new fork(copy) of DRF upstream, and serves more as a promise as of now... 
 *As and when these functionalities are ready, we'll update this readme*
 
 
